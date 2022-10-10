@@ -1,0 +1,3 @@
+this is f3.txt main file.
+in this file we added some students data 
+first of all we added student name and then added student marks.
